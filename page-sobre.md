@@ -5,4 +5,4 @@ permissions:
 
 layout: page
 title: "SOBRE"
-permalink: /sobre
+permalink: /page-sobre.md
